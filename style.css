@@ -62,8 +62,8 @@ h1, h2, h3, h4, p {
   background-image: url("images/happy.gif");
 }
 
-#gift-img-hot:hover {
-  background-image: url("images/hot.gif");
+#gift-img-reaction:hover {
+  background-image: url("images/reaction.gif");
 }
 
 #gift-img-genius:hover {
